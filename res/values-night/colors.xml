@@ -14,9 +14,9 @@
      limitations under the License.
 -->
 <resources>
-    <color name="app_background_color">@android:color/white</color>
-    <color name="background_floating">@android:color/white</color>
-    <color name="nav_bar_translucent">#99FFFFFF</color>
+    <color name="app_background_color">#202124</color>
+    <color name="background_floating">#3C4043</color>
+    <color name="nav_bar_translucent">#52000000</color>
 
     <color name="primary">#7367F0</color> <!-- Blue 600 -->
     <color name="secondary">#31375a</color> <!-- Blue 50 -->
