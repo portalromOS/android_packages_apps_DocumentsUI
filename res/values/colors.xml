@@ -23,8 +23,8 @@
     <color name="background_floating">@android:color/white</color>
     <color name="nav_bar_translucent">#99FFFFFF</color>
 
-    <color name="primary">#1E88E5</color> <!-- Blue 600 -->
-    <color name="secondary">#E3F2FD</color> <!-- Blue 50 -->
+    <color name="primary">#7367F0</color> <!-- Blue 600 -->
+    <color name="secondary">#31375a</color> <!-- Blue 50 -->
     <color name="hairline">#E0E0E0</color> <!-- Gray 300 -->
 
     <color name="chip_background_disable_color">#fff1f3f4</color>
@@ -42,12 +42,12 @@
     <color name="shortcut_foreground">#ff3367d6</color>
     <color name="shortcut_background">#fff5f5f5</color>
 
-    <color name="empty_state_text">#202124</color>
+    <color name="empty_state_text">#31375a</color>
     <color name="error_image_color">#757575</color>
 
     <color name="edge_effect">@android:color/black</color>
 
-    <color name="doc_list_item_subtitle_enabled">#5F6368</color> <!-- Gray 700 -->
+    <color name="doc_list_item_subtitle_enabled">#31375a</color> <!-- Gray 700 -->
     <color name="doc_list_item_subtitle_disabled">#613c4043</color> <!-- 38% Grey800 -->
 
     <color name="list_divider_color">#1f000000</color>
